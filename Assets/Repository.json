@@ -1,0 +1,15 @@
+{
+    "name": "RSDKv4",
+    "icon": "icon.svg",
+    "URLShortcut": "v4",
+    "settings": {
+        "Mobile Layout": {
+            "description": "Use the mobile layout",
+            "enabled": false
+        },
+        "Plus DLC": {
+            "description": "Use the Plus DLC",
+            "enabled": false
+        }
+    }
+}
